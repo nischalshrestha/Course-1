@@ -27,13 +27,13 @@ The following are example questions that will be similar to questions you will h
   * A) Ansible
   * B) NewRelic
   * C) Mocha
-  * D) Vagrant
+  * **D**) Vagrant
 
 2. Which of the following best describes a *mutation-based* fuzzing technique:
 
   * A) Test input is randomly modified.
   * B) The test input can be based on existing examples.
-  * C) Both A and B
+  * **C**) Both A and B
   * D) Test input is created by grammars.
   * E) All of the Above
 
@@ -41,7 +41,7 @@ The following are example questions that will be similar to questions you will h
 
   * A) A practice where developers automatically build, test, and analyze a software change in response to every software change committed to the source repository.
   * B) A practice that ensures that a software change can be ready for use by a customer by testing in production-like environments.
-  * C) A practice where incremental software changes are automatically tested, vetted, and deployed to production environments.
+  * **C**) A practice where incremental software changes are automatically tested, vetted, and deployed to production environments.
   * D) B or C
   * E) None of the Above
 
@@ -51,20 +51,20 @@ The following are example questions that will be similar to questions you will h
   * B) Operation Locks
   * C) Expand and Contract
   * D) Big Flip
-  * E) Feature Flags
+  * **E**) Feature Flags
 
 ### Definitions
 
 1. Which tool or service does not belong with the other? Underline one choice per line. (1 point each).
 
-  * Docker, Vagrant, Chef
-  * Ansible, Salt, Puppet, Otto 
-  * Jenkins, HAProxy, GoCd, SnapCI
-  * npm, bower, mocha, maven, ant
-  * OpenStack, AWS, Rackspace, Kubernetes
-  * Grunt, Fuzzing, Randoop
-  * Docker Compose, Fig, Decking.io, Digital Ocean
-  * Redis, Memcached, CruiseControl
+  * Docker, Vagrant, **Chef**
+  * Ansible, Salt, Puppet, **Otto** 
+  * Jenkins, **HAProxy**, GoCd, SnapCI
+  * npm, bower, **mocha**, maven, ant
+  * OpenStack, AWS, **Rackspace**, Kubernetes
+  * Grunt, **Fuzzing**, Randoop
+  * Docker Compose, Fig, Decking.io, **Digital Ocean**
+  * Redis, Memcached, **CruiseControl**
   * NewRelic, Flame Graphs, Simian Army
   * Chaos Monkey, Splunk, Canaries
 
